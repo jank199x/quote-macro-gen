@@ -1,6 +1,5 @@
 #! /usr/bin/env python3
 
-import json
 from PIL import Image, ImageDraw, ImageFont
 import textwrap
 
